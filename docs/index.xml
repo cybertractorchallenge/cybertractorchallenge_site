@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CyberTractor Challenge</title>
+    <link>https://cybertractorchallenge.org/</link>
+    <description>Recent content on CyberTractor Challenge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 10:00:37 -0700</lastBuildDate><atom:link href="https://cybertractorchallenge.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting_up</title>
+      <link>https://cybertractorchallenge.org/post/starting_up/</link>
+      <pubDate>Wed, 01 Nov 2023 10:00:37 -0700</pubDate>
+      
+      <guid>https://cybertractorchallenge.org/post/starting_up/</guid>
+      <description>Welcome to the CyberTractor Challenge! This page is under construction.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cybertractorchallenge.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybertractorchallenge.org/about/</guid>
+      <description>The CyberTractor Challenge (English: Tractor Hacking) was started by John Deere in 2022 as a sister event to the more established CyberTruck and CyberAuto challenges, focusing on the cybersecurity of their modern connected Agricultural fleet by bringing college and university students to a real farm in Iowa to get hands on experience with real equipment and real cybersecurity + engineering professionals. As the seeds of CyberTractor sprouted, the goals and scope for this &amp;ldquo;challenge&amp;rdquo; have pivoted from focusing on solely the iconic Green and Yellow equipment to include industry peers of all colors.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cybertractorchallenge.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybertractorchallenge.org/contact/</guid>
+      <description>If you&amp;rsquo;re interested in learning more about the CyberTractor Challenge, please fill out this form to notify us and a member of our team will be in contact.
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+  </channel>
+</rss>
