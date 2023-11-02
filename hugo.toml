@@ -3,6 +3,9 @@ baseURL = "https://cybertractorchallenge.org"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
+publishDir = 'docs'
+canonifyurls = true
+paginate = 10
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
