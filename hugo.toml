@@ -36,10 +36,35 @@ enableRobotsTXT = true
   recent_posts_number = 2
 
 [[params.ananke_socials]]
-#name = "LinkedIn"
-#url = "https://linkedin.com/cybertractorchallenge"
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/99360447/admin/feed/posts/"
+# name = "CyberTruck Challenge"
+# url = "https://www.cybertruckchallenge.org/"
+
+# Define the main menu
+[[menu.main]]
+name = "Challenges"
+url = "#"
+weight = 1
+identifier = "challenges"
+
+# Define a child item of the Challenges dropdown
+[[menu.main]]
 name = "CyberTruck Challenge"
 url = "https://www.cybertruckchallenge.org/"
+weight = 1
+parent = "challenges"
+[[menu.main]]
+name = "CyberAuto Challenge"
+url = "https://www.cyberauto-challenge.org/"
+weight = 1
+parent = "challenges"
+[[menu.main]]
+name = "CyberMedical Challenge"
+url = "https://www.cybermedicalchallenge.org/"
+weight = 1
+parent = "challenges"
+
 
 [markup.goldmark.renderer]
 unsafe= true
