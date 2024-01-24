@@ -33,6 +33,6 @@ This year we are proud to announce that CyberTractor Challenge is now a 501(c)(3
 #### $9,999 or less
 Thank you for your contribution towards the annual event. You may send one guest on Tuesday and will be listed on the event sponsor board. 
 
-If you wish to sponsor the 2024 CyberTractor Challenge, please complete the attached sponsorship agreement and email the completed form to: [amelia@cybertractorchallenge.org](mailto:amelia@cybertractorchallenge.org). Registration information will be sent upon receipt of the agreement and again once we are ready to receive donations.
+If you wish to sponsor the 2024 CyberTractor Challenge please email [amelia@cybertractorchallenge.org](mailto:amelia@cybertractorchallenge.org). Registration information will be sent upon receipt of the agreement and again once we are ready to receive donations.
 
 
