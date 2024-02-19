@@ -6,24 +6,28 @@
     <description>Recent content in Statics on CyberTractor Challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 17:39:17 -0600</lastBuildDate><atom:link href="https://cybertractorchallenge.org/static/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 10:43:25 -0600</lastBuildDate>
+    <atom:link href="https://cybertractorchallenge.org/static/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply</title>
+      <link>https://cybertractorchallenge.org/static/apply/</link>
+      <pubDate>Mon, 19 Feb 2024 10:43:25 -0600</pubDate>
+      <guid>https://cybertractorchallenge.org/static/apply/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>Other Challenges</title>
       <link>https://cybertractorchallenge.org/static/other_challenges/</link>
       <pubDate>Tue, 23 Jan 2024 17:39:17 -0600</pubDate>
-      
       <guid>https://cybertractorchallenge.org/static/other_challenges/</guid>
       <description>This page under construction</description>
     </item>
-    
     <item>
       <title>Sponsor Packages</title>
       <link>https://cybertractorchallenge.org/static/sponsor_packages/</link>
       <pubDate>Tue, 23 Jan 2024 17:00:01 -0600</pubDate>
-      
       <guid>https://cybertractorchallenge.org/static/sponsor_packages/</guid>
       <description>Dear Potential Sponsor: CyberTractor Challenge appreciates your interest in sponsoring our 3rd Annual event being held June 10-14, 2024, just 45 minutes north of the capitol of Iowa at the home of the Iowa State University Cyclones. As you read this, trainers are being approached by the Board of Directors to set classes, venue arrangements are being made, infrastructure is being created, recruiting of student applicants is underway, and more is in progress to bring this exciting event to life.</description>
     </item>
-    
   </channel>
 </rss>

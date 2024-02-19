@@ -6,62 +6,56 @@
     <description>Recent content on CyberTractor Challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 17:39:17 -0600</lastBuildDate><atom:link href="https://cybertractorchallenge.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 10:43:25 -0600</lastBuildDate>
+    <atom:link href="https://cybertractorchallenge.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply</title>
+      <link>https://cybertractorchallenge.org/static/apply/</link>
+      <pubDate>Mon, 19 Feb 2024 10:43:25 -0600</pubDate>
+      <guid>https://cybertractorchallenge.org/static/apply/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>Other Challenges</title>
       <link>https://cybertractorchallenge.org/static/other_challenges/</link>
       <pubDate>Tue, 23 Jan 2024 17:39:17 -0600</pubDate>
-      
       <guid>https://cybertractorchallenge.org/static/other_challenges/</guid>
       <description>This page under construction</description>
     </item>
-    
     <item>
       <title>Sponsor Packages</title>
       <link>https://cybertractorchallenge.org/static/sponsor_packages/</link>
       <pubDate>Tue, 23 Jan 2024 17:00:01 -0600</pubDate>
-      
       <guid>https://cybertractorchallenge.org/static/sponsor_packages/</guid>
       <description>Dear Potential Sponsor: CyberTractor Challenge appreciates your interest in sponsoring our 3rd Annual event being held June 10-14, 2024, just 45 minutes north of the capitol of Iowa at the home of the Iowa State University Cyclones. As you read this, trainers are being approached by the Board of Directors to set classes, venue arrangements are being made, infrastructure is being created, recruiting of student applicants is underway, and more is in progress to bring this exciting event to life.</description>
     </item>
-    
     <item>
       <title>Sponsorship Drive</title>
       <link>https://cybertractorchallenge.org/post/sponsor_drive/</link>
       <pubDate>Tue, 23 Jan 2024 15:15:59 -0600</pubDate>
-      
       <guid>https://cybertractorchallenge.org/post/sponsor_drive/</guid>
-      <description>Dear Visionaries, Innovators, and those linked to the land,
-I am excited to announce that we are gearing up for the 3rd Annual CyberTractor Challenge, set for June 10-14, 2024, near the dynamic campus of Iowa State University, and it&amp;rsquo;s that time where we must start on the process of finding sponsors! With preparations already underway from curriculum planning by our esteemed Board of Directors to student recruitment — we are on the threshold of bringing another groundbreaking event to life.</description>
+      <description>Dear Visionaries, Innovators, and those linked to the land,&#xA;I am excited to announce that we are gearing up for the 3rd Annual CyberTractor Challenge, set for June 10-14, 2024, near the dynamic campus of Iowa State University, and it&amp;rsquo;s that time where we must start on the process of finding sponsors! With preparations already underway from curriculum planning by our esteemed Board of Directors to student recruitment — we are on the threshold of bringing another groundbreaking event to life.</description>
     </item>
-    
     <item>
       <title>Starting_up</title>
       <link>https://cybertractorchallenge.org/post/starting_up/</link>
       <pubDate>Wed, 01 Nov 2023 10:00:37 -0700</pubDate>
-      
       <guid>https://cybertractorchallenge.org/post/starting_up/</guid>
       <description>Welcome to the CyberTractor Challenge! This page is under construction.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://cybertractorchallenge.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://cybertractorchallenge.org/about/</guid>
       <description>The CyberTractor Challenge (English: Tractor Hacking) was started by John Deere in 2022 as a sister event to the more established CyberTruck and CyberAuto challenges, focusing on the cybersecurity of their modern connected Agricultural fleet by bringing college and university students to a real farm in Iowa to get hands on experience with real equipment and real cybersecurity + engineering professionals. As the seeds of CyberTractor sprouted, the goals and scope for this &amp;ldquo;challenge&amp;rdquo; have pivoted from focusing on solely the iconic Green and Yellow equipment to include industry peers of all colors.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://cybertractorchallenge.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://cybertractorchallenge.org/contact/</guid>
-      <description>If you&amp;rsquo;re interested in learning more about the CyberTractor Challenge, please fill out this form to notify us and a member of our team will be in contact.
-Your Name Email Address An email address is required. Message </description>
+      <description>If you&amp;rsquo;re interested in learning more about the CyberTractor Challenge, please fill out this form to notify us and a member of our team will be in contact.&#xA;Your Name Email Address An email address is required. Message </description>
     </item>
-    
   </channel>
 </rss>
