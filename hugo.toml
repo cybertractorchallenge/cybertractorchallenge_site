@@ -48,6 +48,12 @@ url = "/posts/sponsor_drive"
 weight = 1
 identifier = "sponsor"
 
+[[menu.main]]
+name = "Sponsor Us"
+url = "/posts/sponsor_drive"
+weight = 1
+identifier = "sponsor"
+
 # Define the main menu
 [[menu.main]]
 name = "Challenges"
