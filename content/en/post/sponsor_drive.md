@@ -6,6 +6,8 @@ draft = false
 featured_image="/images/arms_open.png"
 +++
 
+Update! [Click HERE to submit your official offer of sponsorship for the 2024 CyberTractor Challenge](https://forms.office.com/r/tttGypjcxq)
+
 Dear Visionaries, Innovators, and those linked to the land,
 
 I am excited to announce that we are gearing up for the 3rd Annual CyberTractor Challenge, set for June 10-14, 2024, near the dynamic campus of Iowa State University, and it's that time where we must start on the process of finding sponsors! With preparations already underway from curriculum planning by our esteemed Board of Directors to student recruitment — we are on the threshold of bringing another groundbreaking event to life.

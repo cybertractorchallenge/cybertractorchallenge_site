@@ -14,7 +14,7 @@ CyberTractor Challenge appreciates your interest in sponsoring our 3rd Annual ev
 
 This year we are proud to announce that CyberTractor Challenge is now a 501(c)(3), which means we can invite ALL colors of Tractor/Farm Equipment OEMs to join and attend this amazing event. It also means there are now new valuable sponsorship opportunities to bring our event to the public (in the past we have been a 100% John Deere funded event, but not this time around). We look forward to working with you in the coming year on the 2024 CyberTractor Challenge to excite Cybersecurity college students from across the USA into entering the Agricultural Industry and develop professional relationships with your company. We believe you will find your sponsorship not only provides an invaluable service to your industry, but an invaluable pipeline of talent that can only be found by being found.
 
-[Please click HERE](/data/2024_CyberTractor_Sponsorship_Flyer.pdf) to download a PDF of our current sponsorship flyer to help gain support internally at your organization, and please reach out to us if there are any questions!
+[Click HERE to submit your official offer of sponsorship for the 2024 CyberTractor Challenge](https://forms.office.com/r/tttGypjcxq). Or you can [click HERE](/data/2024_CyberTractor_Sponsorship_Flyer.pdf) to download a PDF of our current sponsorship flyer to help gain support internally at your organization, and please reach out to us if there are any questions! 
 
 ### Sponsorship Levels:
 
