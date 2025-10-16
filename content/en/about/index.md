@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Addressing the cybersecurity landscape of existing and next-generation connected agricultural platforms"
-featured_image: '/images/2023_classwork.png'
+featured_image: '/images/about.png'
 menu:
   main:
     weight: 1

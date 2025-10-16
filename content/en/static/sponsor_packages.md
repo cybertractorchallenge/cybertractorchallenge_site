@@ -1,6 +1,6 @@
 +++
 title = 'Sponsor Packages'
-date = 2024-01-23T17:00:01-06:00
+date = 2025-10-16T17:00:01-06:00
 draft = false
 featured_image="/images/arms_open.png"
 
@@ -10,11 +10,11 @@ featured_image="/images/arms_open.png"
 
 ## Dear Potential Sponsor:
 
-CyberTractor Challenge appreciates your interest in sponsoring our 3rd Annual event being held June 10-14, 2024, just 45 minutes north of the capitol of Iowa at the home of the Iowa State University Cyclones. As you read this, trainers are being approached by the Board of Directors to set classes, venue arrangements are being made, infrastructure is being created, recruiting of student applicants is underway, and more is in progress to bring this exciting event to life.
+CyberTractor Challenge appreciates your interest in sponsoring our 3rd Annual event being held June 8-12, 2026, just 45 minutes north of the capitol of Iowa at the home of the Iowa State University Cyclones. As you read this, trainers are being approached by the Board of Directors to set classes, venue arrangements are being made, infrastructure is being created, recruiting of student applicants is underway, and more is in progress to bring this exciting event to life.
 
-This year we are proud to announce that CyberTractor Challenge is now a 501(c)(3), which means we can invite ALL colors of Tractor/Farm Equipment OEMs to join and attend this amazing event. It also means there are now new valuable sponsorship opportunities to bring our event to the public (in the past we have been a 100% John Deere funded event, but not this time around). We look forward to working with you in the coming year on the 2024 CyberTractor Challenge to excite Cybersecurity college students from across the USA into entering the Agricultural Industry and develop professional relationships with your company. We believe you will find your sponsorship not only provides an invaluable service to your industry, but an invaluable pipeline of talent that can only be found by being found.
+This year we are proud to announce that CyberTractor Challenge is now a 501(c)(3), which means we can invite ALL colors of Tractor/Farm Equipment OEMs to join and attend this amazing event. It also means there are now new valuable sponsorship opportunities to bring our event to the public (in the past we have been a 100% John Deere funded event, but not this time around). We look forward to working with you in the coming year on the 2026 CyberTractor Challenge to excite Cybersecurity college students from across the USA into entering the Agricultural Industry and develop professional relationships with your company. We believe you will find your sponsorship not only provides an invaluable service to your industry, but an invaluable pipeline of talent that can only be found by being found.
 
-[Click HERE to submit your official offer of sponsorship for the 2024 CyberTractor Challenge](https://forms.office.com/r/tttGypjcxq). Or you can [click HERE](/data/2024_CyberTractor_Sponsorship_Flyer.pdf) to download a PDF of our current sponsorship flyer to help gain support internally at your organization, and please reach out to us if there are any questions! 
+[Click HERE to submit your official offer of sponsorship for the 2026 CyberTractor Challenge](https://forms.office.com/r/tttGypjcxq). Or you can [click HERE](/data/2026_sponsor_form.pdf) to download a PDF of our current sponsorship flyer to help gain support internally at your organization, and please reach out to us if there are any questions!
 
 ### Sponsorship Levels:
 
@@ -33,6 +33,6 @@ This year we are proud to announce that CyberTractor Challenge is now a 501(c)(3
 #### $9,999 or less
 Thank you for your contribution towards the annual event. You may send one guest on Tuesday and will be listed on the event sponsor board. 
 
-If you wish to sponsor the 2024 CyberTractor Challenge please email [amelia@cybertractorchallenge.org](mailto:amelia@cybertractorchallenge.org). Registration information will be sent upon receipt of the agreement and again once we are ready to receive donations.
+If you wish to sponsor the 2026 CyberTractor Challenge please email [treasurer@cybertractorchallenge.org](mailto:treasurer@cybertractorchallenge.org). Registration information will be sent upon receipt of the agreement and again once we are ready to receive donations.
 
 

@@ -1,18 +1,18 @@
 +++
 title = 'Sponsorship Drive'
 description = 'CyberTractor Challenge is ready open to sponsors! Learn more below!'
-date = 2024-01-23T15:15:59-06:00
+date = 2025-10-17T15:15:59-06:00
 draft = false
 featured_image="/images/arms_open.png"
 +++
 
-Update! [Click HERE to submit your official offer of sponsorship for the 2024 CyberTractor Challenge](https://forms.office.com/r/tttGypjcxq)
+Update! [Click HERE to submit your official offer of sponsorship for the 2026 CyberTractor Challenge](https://forms.office.com/r/tttGypjcxq)
 
 Dear Visionaries, Innovators, and those linked to the land,
 
-I am excited to announce that we are gearing up for the 3rd Annual CyberTractor Challenge, set for June 10-14, 2024, near the dynamic campus of Iowa State University, and it's that time where we must start on the process of finding sponsors! With preparations already underway from curriculum planning by our esteemed Board of Directors to student recruitment — we are on the threshold of bringing another groundbreaking event to life.
+I am excited to announce that we are gearing up for the 4th Annual CyberTractor Challenge, set for June 8-12, 2026, near the dynamic campus of Iowa State University, and it's that time where we must start on the process of finding sponsors! With preparations already underway from curriculum planning by our esteemed Board of Directors to student recruitment — we are on the threshold of bringing another groundbreaking event to life.
 
-This year, we're excited to announce that CyberTractor Challenge has achieved 501(c)3 status, opening up the arena for all Tractor/Farm Equipment OEMs to join our cause. This exciting development gives way to a new era of sponsorship opportunities, crucial for propelling our event to new heights.
+This year, we're excited to continue CyberTractor Challenge as a 501(c)3 organization, continuing to build an arena for all Tractor/Farm Equipment OEMs to join our cause. This exciting structure gives way to a new era of sponsorship opportunities, crucial for propelling our event to new heights.
 
 We welcome sponsorships of any magnitude, [please see this page for available sponsorship packages](/static/sponsor_packages)
 

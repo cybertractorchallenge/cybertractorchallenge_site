@@ -1,18 +1,19 @@
 +++
-title = 'Apply to the 2024 CyberTractor Challenge!'
-date = 2024-02-20T10:37:29-06:00
-featured_image="/images/apply.png"
+title = 'Apply to the 2026 CyberTractor Challenge!'
+date = 2025-10-17T10:37:29-06:00
+featured_image="/images/apply_2026.png"
 
 +++
+It's that time of year again where we sow the seeds to grow the future of CyberSecurity in Agriculture!
 
-Happy Leap-Year Cybersecurity Enthusiasts and Ag-Tech Innovators!
+Applications for the 2026 CyberTractor Challenge are officially open for submission! Apply to join us June 8th-12th, 2026 in the heartland of the USA to learn from industry leaders, academic instructors, experts, and our generous sponsors about the exciting field of agriculture cybersecurity! It's the 5th year of our event, THIRD year as a 501c3 Non-Profit, and the world of AgTech is growing faster than ever! [Head over to our application page here to apply!](/static/apply). 
 
-CyberTractor Challenge is approaching rapidly, taking place June 10-14 2024 right here in the heartland of the USA! We've evolved from a single-brand initiative to an independent 501c3 with a broader venture under our shiny new non-profit status. This means more  perspectives, more cool tech, and yes, more tractors of more colors! Our event puts you in the room with some of the experts who built the very systems on which you will be training. 
 
 At this event you will: 
 
 - Learn new skills and network with engineers
 - Assess REAL Agriculture-focused embedded technology stacks
+- Make your own tools for embedded security research
 - Create lasting employer relationships
 - Bolster personal and professional growth
 
@@ -24,7 +25,7 @@ To qualify for this event you must:
 - Background in networking, cloud IlT, CANBUS, Unix-like systems, or general security concepts
 - Exposure to one or more programming languages: IE Python, C/C++, Bash/Shell
 - Demonstrated ability to learn new technologies
-- Strong analytical, communication and intrapersonal skills
+- Strong analytical, communication and interpersonal skills
 
 What makes you stand out:
 - Pursuing Bachelor's degree (equivalent or higher) in Software/Computer Engineering, Cybersecurity, Computer Science
@@ -33,6 +34,8 @@ What makes you stand out:
 - Exposure to cloud concepts: AWS, Azure, Etc...
 - Knowledge of security principles: ethical hacking, vulnerabilities, secure design
 
-We're committed to growing the next generation of cybersecurity experts in the connected world of modern agriculture and are excited to bring this event to life!  [Head over to our application page](/static/apply) to apply today through APRIL 10th ~~MARCH 30th~~ 2024! Our team will be updating our applicants on the status of the their applicaiton no later than than APRIL 30th 2024. Thank you for your interest in our event, please reach out using our [Contact Form if you have any questions. ](/contact)
+NOTE: Thanks to our generous sponsors, if you are accepted, all student expenses to and from the event including food, housing, and travel will be covered!
 
-The CyberTractor Challenge Team
+We’re committed to growing the next generation of cybersecurity experts in the connected world of modern agriculture and are excited to bring this event to life! Head over to our application page to apply today from October 17th 2025, through January 18th 2026! Applications will be reviewed on a rolling basis as soon as they come in - so apply early to secure your consideration for this unique opportunity! Our team will update all applicants by no later than March 2026. Thank you for your interest in our event, and please reach out using our Contact Form if you have any questions.
+
+The 2026 CyberTractor Challenge Team
