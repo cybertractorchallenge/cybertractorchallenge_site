@@ -6,8 +6,15 @@
     <description>Recent content in Statics on CyberTractor Challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 17:00:01 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:00:00 -0600</lastBuildDate>
     <atom:link href="https://cybertractorchallenge.org/static/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply</title>
+      <link>https://cybertractorchallenge.org/static/apply/</link>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 -0600</pubDate>
+      <guid>https://cybertractorchallenge.org/static/apply/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>Sponsor Packages</title>
       <link>https://cybertractorchallenge.org/static/sponsor_packages/</link>

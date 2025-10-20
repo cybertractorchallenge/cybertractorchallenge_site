@@ -12,4 +12,4 @@ We are now open an accepting applications to attend the 2026 CyberTractor Challe
 
 [A special thank you to the sponsors of this event](/post/2025_thank_you).  
 
-Apply today to become a Tractor Hacker!  
+[Apply today to become a Tractor Hacker!](/post/apply)
