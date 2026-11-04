@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cybertractorchallenge.org/</loc>
-    <lastmod>2025-10-17T15:15:59-06:00</lastmod>
+    <lastmod>2026-11-03T09:30:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertractorchallenge.org/post/2026_thank_you/</loc>
+    <lastmod>2026-11-03T09:30:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertractorchallenge.org/post/applications_opening_december/</loc>
+    <lastmod>2026-11-03T09:00:00-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -19,11 +29,6 @@
   </url><url>
     <loc>https://cybertractorchallenge.org/static/</loc>
     <lastmod>2025-10-17T12:00:00-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertractorchallenge.org/apply/</loc>
-    <lastmod>2025-10-17T10:37:29-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
