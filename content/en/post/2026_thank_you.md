@@ -2,7 +2,7 @@
 title = 'Thank You to Our 2026 CyberTractor Challenge Sponsors!'
 date = 2026-11-03T09:30:00-08:00
 draft = false
-featured_image = "/images/assessing.png"
+featured_image = "/images/class_of_2026.jpg"
 +++
 
 The 2026 CyberTractor Challenge is in the books! Our 5th year of the event, held June 8th-12th, 2026 near the campus of Iowa State University, brought together students, industry leaders, academic instructors, and experts to learn about the exciting field of agriculture cybersecurity. Thanks to our outstanding sponsors and supporters, this year demonstrated our growth and potential. We aimed to create a more impactful CyberTractor Challenge, and our sponsors' support made this vision a reality.
@@ -37,6 +37,11 @@ We extend our appreciation to [**Colorado State University**](https://www.colost
 Thank you again to **our sponsors, students, teachers, mentors, volunteers, and all who donated their time** for making 2026 our most successful year yet.
 
 Applications for the next CyberTractor Challenge open at the beginning of December — stay tuned to [**cybertractorchallenge.org**](https://cybertractorchallenge.org) for the announcement!
+
+##### Class of 2026
+![Group Shot in 2026](/images/class_of_2026.jpg)
+
+*Photo: Iowa State University Digital Ag Innovation Lab*
 
 See you next year, Tractor Hackers
 
