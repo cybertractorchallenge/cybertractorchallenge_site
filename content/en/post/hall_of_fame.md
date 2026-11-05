@@ -9,6 +9,9 @@ featured_image="/images/dirt_classroom.png"
 
 Check out our hall of fame! Pictures from the previous years of CyberTractor Challenge are below.
 
+### Class of 2026
+![Group Shot in 2026](/images/class_of_2026.jpg)
+
 ### Class of 2025
 ![Group Shot in 2025](/images/class_of_2025.png)
 
