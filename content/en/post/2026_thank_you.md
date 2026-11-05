@@ -26,7 +26,7 @@ This year's challenge offered comprehensive hands-on experience with real agricu
 
 ### More Than a Sponsor
 
-Special thanks to [**Iowa State University**](https://www.iastate.edu/) for hosting the 2026 CyberTractor Challenge. Your facilities and support were essential to our success. We also thank the Digital Ag team for contributing their time and expertise. For those interested in cybersecurity or advanced degrees in a variety of fields, ISU offers a great opportunity to grow your skills.
+Special thanks to [**Iowa State University**](https://www.iastate.edu/) for hosting the 2026 CyberTractor Challenge. Your facilities and support were essential to our success. We also thank the [**Digital Ag Innovation Lab**](https://digitalag.iastate.edu/) team for contributing their time and expertise. For those interested in cybersecurity or advanced degrees in a variety of fields, ISU offers a great opportunity to grow your skills.
 
 ### Academic Partnership Highlight
 
@@ -41,7 +41,7 @@ Applications for the next CyberTractor Challenge open at the beginning of Decemb
 ##### Class of 2026
 ![Group Shot in 2026](/images/class_of_2026.jpg)
 
-*Photo: Iowa State University Digital Ag Innovation Lab*
+*Photo: Iowa State University [Digital Ag Innovation Lab](https://digitalag.iastate.edu/)*
 
 See you next year, Tractor Hackers
 
