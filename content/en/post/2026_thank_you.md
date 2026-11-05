@@ -5,7 +5,7 @@ draft = false
 featured_image = "/images/class_of_2026.jpg"
 +++
 
-The 2026 CyberTractor Challenge is in the books! Our 5th year of the event, held June 8th-12th, 2026 near the campus of Iowa State University, brought together students, industry leaders, academic instructors, and experts to learn about the exciting field of agriculture cybersecurity. Thanks to our outstanding sponsors and supporters, this year demonstrated our growth and potential. We aimed to create a more impactful CyberTractor Challenge, and our sponsors' support made this vision a reality.
+The 2026 CyberTractor Challenge is in the books! Our 5th year of the event, held June 8th-12th, 2026 on the campus of Iowa State University, brought together students, industry leaders, academic instructors, and experts to learn about the exciting field of agriculture cybersecurity. Thanks to our outstanding sponsors and supporters, this year demonstrated our growth and potential. We aimed to create a more impactful CyberTractor Challenge, and our sponsors' support made this vision a reality.
 
 ### Who Are Our Sponsors
 
