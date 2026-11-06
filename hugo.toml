@@ -85,3 +85,10 @@ parent = "challenges"
 
 [markup.goldmark.renderer]
 unsafe= true
+
+# Define the main menu
+[[menu.main]]
+name = "Theme Song"
+url = "/data/The_Hacker_On_The_Farm.mp3"
+weight = 100
+identifier = "theme-song"
